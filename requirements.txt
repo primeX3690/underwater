@@ -1,0 +1,19 @@
+# Deep Learning & AI Inference
+torch>=2.0.0
+numpy>=1.22.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Physics Simulation & Mathematical Modeling
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Hardware-In-The-Loop (HITL) & Socket Communication
+asyncio>=3.4.3
+
+torch>=2.0.0
+numpy>=1.22.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+scipy>=1.10.0
+matplotlib>=3.7.0
